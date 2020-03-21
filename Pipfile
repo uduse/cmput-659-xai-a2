@@ -17,6 +17,7 @@ selenium = "*"
 phantomjs = "*"
 jupyter = "*"
 jupyter-tabnine = "*"
+jupyter-contrib-nbextensions = "*"
 
 [requires]
 python_version = "3.7"
